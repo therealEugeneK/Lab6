@@ -1,1 +1,1 @@
-# This program creates a sorted "playlist" of songs via a binary search tree. The song titles are used as keys for sorting comparisons. 
+# This program calculates my final grade for the class. Data is mainly stored in arrays and the program runs procedurally. The user is prompted to enter the grades recieved for the homeworks, labs, and midterms. The program then calculates the final grade.
